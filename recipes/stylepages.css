@@ -17,7 +17,7 @@ body {
     text-align: center;
 }
 
-p {
+p,ol,ul {
     color: rgb(43, 45, 66);
 }
 

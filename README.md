@@ -1,3 +1,2 @@
-Creating a recipe project website using HTML
-
-This is one of the practise projects to test my knowledge on the basics of html.
+<h1>Recipe project website</h1>
+<p>This project involves creating a recipe webiste using HTML, CSS and Javascript. It one of the projects that forms part of the The Odin Project Cuuriculum, to practice foundational web development skills, including building a functional and appealing website.</p>
